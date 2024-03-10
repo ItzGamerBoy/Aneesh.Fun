@@ -7,7 +7,7 @@
 Get ready to lose yourself in the maze – where every decision shapes your destiny, and every triumph is a step closer to victory. Will you conquer the labyrinth, or will it conquer you? The answers await as you step into the maze game – an exhilarating fusion of strategy, mystery, and pure gaming excitement."
 
 # Credits
-Project Credits 
+# Project Credits 
 
 ## Developers:  
 - Aneesh Panda (Game Development Console)  
